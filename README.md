@@ -2,7 +2,7 @@
 
 微信公众号：小惜渗透，欢迎大佬一起交流进步，回复`彩蛋`有惊喜
 
-<img src="https://mc-imgup.oss-cn-beijing.aliyuncs.com/202208191332354.png" alt="image-20220819133226309" style="zoom:50%;" />
+![image-20220819133337175](https://mc-imgup.oss-cn-beijing.aliyuncs.com/202208191333189.png)
 
 ## 使用说明
 ![image-20220819111249999](https://mc-imgup.oss-cn-beijing.aliyuncs.com/202208191112202.png)
