@@ -155,8 +155,8 @@ if __name__ == '__main__':
         /__/ /\ __\/__/ /\ __\   |\_________\   \|__|
         |__|/ \|__||__|/ \|__|   \|_________|        
             
-            
-        微信公众号：小惜渗透，欢迎师傅们关注（回复：`彩蛋`有惊喜）                                 
+        Project: github_findpath(tools专版) 
+        Author：小惜渗透，欢迎师傅们关注（回复：`彩蛋`有惊喜）                                 
     ''')
     print('Crawling for data,Please wait for......')
     send(github_url)
